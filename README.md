@@ -5,7 +5,8 @@ Please feel free to make a pull request to add to this list
 Table of Contents
 =================
 
-  * [Tutorials](#tutorials)
+  * [Tutorials (MERN)](#tutorials-mern)
+  * [Tutorials (MEAN)](#tutorials-mean)
   * [Tools &amp; Resources](#tools--resources)
   * [Design Patterns](#design-patterns)
       * [Front-end](#front-end)
@@ -14,8 +15,15 @@ Table of Contents
   * [Related Technologies](#related-technologies)
   * [Job Resources](#job-resources)
 
+Tutorials (MERN)
+=========
+* [React.js Home](https://facebook.github.io/react/)
+* [Shaping Up With ReactJS](https://www.pluralsight.com/paths/react)
+* [Become a MERN Stack Developer](https://scotch.io/@deityhub/getting-started-with-the-mern-stack)
+* [MERN-Stack Front to Back](https://www.udemy.com/mern-stack-front-to-back/)
+* [Git Immersion](http://gitimmersion.com/)
 
-Tutorials
+Tutorials (MEAN)
 =========
 
 * [Shaping Up With AngularJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
@@ -59,7 +67,6 @@ Related Technologies
 ====================
 
 The latest web tech that might not help you in the class, but are worth checking out.
-* [React.js](https://facebook.github.io/react/) - Facebook's answer to AngularJS
 * [Ember.js](http://emberjs.com/) - Community driven answer to React and Angular
 * [Ionic](http://ionicframework.com/) - Make iOS/Android apps with AngularJs
 * [Meteor](https://www.meteor.com/) - A JavaScript App Platform
