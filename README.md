@@ -5,8 +5,7 @@ Please feel free to make a pull request to add to this list
 Table of Contents
 =================
 
-  * [Tutorials (MERN)](#tutorials-mern)
-  * [Tutorials (MEAN)](#tutorials-mean)
+  * [Tutorials](#tutorials)
   * [Tools &amp; Resources](#tools--resources)
   * [Design Patterns](#design-patterns)
       * [Front-end](#front-end)
@@ -15,22 +14,13 @@ Table of Contents
   * [Related Technologies](#related-technologies)
   * [Job Resources](#job-resources)
 
-Tutorials (MERN)
+Tutorials
 =========
 * [React.js Home](https://facebook.github.io/react/)
 * [Shaping Up With ReactJS](https://www.pluralsight.com/paths/react)
 * [Become a MERN Stack Developer](https://scotch.io/@deityhub/getting-started-with-the-mern-stack)
 * [MERN-Stack Front to Back](https://www.udemy.com/mern-stack-front-to-back/)
 * [Git Immersion](http://gitimmersion.com/)
-
-Tutorials (MEAN)
-=========
-
-* [Shaping Up With AngularJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
-* [Become a MEAN Stack Developer](https://www.codeschool.com/mean)
-* [MEAN-Learning](https://github.com/ericdouglas/MEAN-Learning)
-* [Git Immersion](http://gitimmersion.com/)
-* [Class MEANJS Install Guide](https://docs.google.com/document/d/1Vj3NJlzzqpkeg9a73v0R26lgqnYwoV7kgZ_MxMLk6S8/edit?usp=sharing)
 
 Tools & Resources
 =================
@@ -67,6 +57,8 @@ Related Technologies
 ====================
 
 The latest web tech that might not help you in the class, but are worth checking out.
+* [Angular.js](https://angularjs.org) - An open-source front end web framework developed by Google
+* [Vue.js](https://vuejs.org/) - An open-source JavaScript framework for building user interfaces and single-page applications
 * [Ember.js](http://emberjs.com/) - Community driven answer to React and Angular
 * [Ionic](http://ionicframework.com/) - Make iOS/Android apps with AngularJs
 * [Meteor](https://www.meteor.com/) - A JavaScript App Platform
