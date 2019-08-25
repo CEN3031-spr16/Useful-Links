@@ -71,3 +71,13 @@ Job Resources
 * [Easy-Application](https://github.com/j-delaney/easy-application) - Software engineering companies that are easy to apply to
 * [Breakout List](https://breakoutlist.com/) - List of great companies to join
 * [Triplebyte](https://triplebyte.com) - Helping Engineers Find Great Startups
+* [InternSupply](https://intern.supply/) - List of companies hiring interns
+
+Interview Resources
+===================
+Technical interviews can be daunting but have no fear, there are a lot of resources that can help you prepare
+
+* [Firecode](https://www.firecode.io/) - Firecode helps you become comfortable with technical interview problems
+* [Leetcode](https://leetcode.com/) - Leetcode separates problems by topic, company, and difficulty
+* Cracking the Coding Interview by Gayle Laakmann McDowell - has a lot of problems and solutions in Java
+* Elements of Programming Interviews C++ by Adnan Aziz - has a lot of problems and solutions in C++
